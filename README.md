@@ -2,7 +2,7 @@
 
 ## 📌İçerik
 - **Haftalık Ödevler**📊
-- **Bitirme Projesi**💻🛠️
+- **Bitirme Projesi**👩🏻‍💻🛠️
 
 ## 📌Kullanılan Teknolojiler
 - Python
